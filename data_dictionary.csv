@@ -1,0 +1,15 @@
+Column,Description,Data Type
+CustomerID,Unique customer identifier,Integer
+Age,Customer age in years,Numeric
+Gender,Customer gender category,Categorical
+Income,Estimated annual income,Numeric
+Purchases,Number of purchases,Numeric
+PurchaseAmount,Purchase amount/value measure,Numeric
+LastPurchaseDays,Days since last purchase,Numeric
+SupportCalls,Number of support calls,Numeric
+TenureMonths,Customer tenure in months,Numeric
+SatisfactionScore,Customer satisfaction score (1-5),Numeric
+Region,Customer region,Categorical
+ProductCategory,Most purchased product category,Categorical
+SignupDate,Customer signup date,Date
+Churn,"Target: 1 = churn, 0 = not churn",Binary
